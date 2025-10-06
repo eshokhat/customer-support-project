@@ -1,4 +1,4 @@
-# Customer Support Performance Analysis
+# Customer Support Insights Dashboard
 
 ## Overview
 This project explores the operational efficiency of a customer support team — tracking ticket volumes, escalation trends, and issue distribution across channels.  
